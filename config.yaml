@@ -28,7 +28,7 @@ life_cycle: "beta"
 license: "CC-BY 4.0"
 
 # Link to the source repository for this lesson
-source: "https://github.com/EPCCed/2024-10-30-hpc-shell-edinburgh/"
+source: "https://github.com/EPCCed/2024-11-18-archer2-hpc-shell"
 
 # Default branch of your lesson
 branch: "main"
