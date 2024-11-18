@@ -12,7 +12,7 @@
 carpentry: "incubator"
 
 # Overall title for pages.
-title: "Introduction to Using the Shell in a HPC Context"
+title: "ARCHER2 Introduction to Using the Shell"
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2024-10-29
